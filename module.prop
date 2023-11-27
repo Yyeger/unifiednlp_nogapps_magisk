@@ -1,0 +1,6 @@
+id=unifiednlp_nogapps_magisk
+name=UnifiedNlp NoGapps Magisk
+version=v1.0
+versionCode=1
+author=Yeger
+description=installs UnifiedNlp for AOSP roms WITHOUT GAPPS/GMS/MicroG
